@@ -66,7 +66,6 @@ Initial Logistic Regression results:
 
 The dataset was divided using stratified train-test splitting with random_state=1.
 
-Note: These are initial results from a single train-test split. Further evaluation using cross-validation and additional classification metrics is recommended.
 
 ## Project Structure
 
@@ -85,7 +84,7 @@ sonar-mine-detection/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/AryanSahay1/Sonar_mine_detectiopn.git)
 cd sonar-mine-detection
 ```
 
@@ -118,9 +117,7 @@ This project uses a relatively small dataset containing only 208 observations. T
 
 ## Author
 
-Data Science and AI/ML Master's Student
-
-GitHub: YOUR_GITHUB_PROFILE
+Aryan Sahay
 
 ---
 
