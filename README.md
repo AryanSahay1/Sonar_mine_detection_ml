@@ -84,7 +84,7 @@ sonar-mine-detection/
 Clone the repository:
 
 ```bash
-git clone (https://github.com/AryanSahay1/Sonar_mine_detectiopn.git)
+git clone https://github.com/AryanSahay1/Sonar_mine_detection_ml.git
 cd sonar-mine-detection
 ```
 
